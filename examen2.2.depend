@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1395846792 source:/home/mac21/Desktop/programaing/examen2.2/main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<list>
+	<fstream>
+
